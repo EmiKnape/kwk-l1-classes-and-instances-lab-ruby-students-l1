@@ -14,6 +14,7 @@ end
   def bark 
     puts "bark"
   end 
+end 
   
 doggo = Dog.new 
 doggo.bark 
