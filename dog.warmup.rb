@@ -6,14 +6,14 @@ class Dog
     @this_dogs_name
   end
 end
-doggo= Dog.new 
-doggo.name 
-def bark
-  puts "woof"
-end 
-def sit 
-  puts "the dog is sitting"
-  end 
-end 
-doggo= Dog.new
-doggo.sit 
+# doggo= Dog.new 
+# doggo.name 
+# def bark
+#   puts "woof"
+# end 
+# def sit 
+#   puts "the dog is sitting"
+#   end 
+# end 
+# doggo= Dog.new
+# doggo.sit 
