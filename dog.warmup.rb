@@ -18,3 +18,4 @@ end
   
 doggo = Dog.new 
 doggo.bark 
+doggo.name = "Doggo"
