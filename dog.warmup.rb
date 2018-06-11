@@ -16,3 +16,4 @@ end
   end 
   
 doggo = Dog.new 
+doggo.bark 
